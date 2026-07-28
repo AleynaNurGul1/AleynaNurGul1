@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **veri yapıları, algoritma kurma**
 
-- 💬 Ask me about **c , c++ , Python**
+- 💬 Ask me about **c , c++ , Python** , Arduino 
 
 - 📫 How to reach me **aleynanurg96@gmail.com**
 
